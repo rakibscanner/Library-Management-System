@@ -1,0 +1,8 @@
+.custom-btn {
+  background-color: #ff5733; /* Custom color (e.g., orange) */
+  color: white; /* Text color */
+  border: none;
+}
+.custom-btn:hover {
+  background-color: #ff4500; /* Darker shade for hover effect */
+}
